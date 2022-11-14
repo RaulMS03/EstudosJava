@@ -1,3 +1,8 @@
 JAVA 
 
 considerações sobre terminal: https://blog.cod3r.com.br/terminal-no-windows/
+
+
+Tratamento de Exceções:
+2 tipos de erros - erros de compilação e erros de tempo de execução
+throwable- algo que pode ser lançado (Error, Exception)
