@@ -1,7 +1,22 @@
 JAVA 
 
 considerações sobre terminal: https://blog.cod3r.com.br/terminal-no-windows/
+JShell -> intepretador java pelo cmd.
 
+Pacotes -> Organização, funciona como pastas.
+Classes -> Funciona como arquivos.
+Comentários -> // linha unica, /*Comentario de bloco*/, /**Javadoc*/ = documentação do jdk, é possivel deixar anotações.
+
+Variaveis:(Assim como em js, podem ter seu valor alterado, mas nunca redeclarado.)
+int -> inteiros "1,2,3,4...".
+double -> decimais"1.1, 1.2, 1.3, 1.4...".
+
+Constantes:(Tem valor unico e nao podem ser redeclaradas. NOMES DE CONSTANTES DEVEM TER LETRA MAIUSCULA.)
+Final *variavel* -> mantem um valor unico da variavel
+
+inferencia de dados -> por mais que voce possa alterar o valor de uma variavel, voce nao pode mudar o tipo dela, se ela for
+String, trabalhe nela como string, se ela for int, trabalhe como int e se for double, trabalhe nela como double. o var nao pode
+ser inicializado sem ser declarado.
 
 Tratamento de Exceções:
 2 tipos de erros - erros de compilação e erros de tempo de execução
